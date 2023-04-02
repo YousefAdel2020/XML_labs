@@ -1,0 +1,13 @@
+library
+{
+	background-color: #ffffff;
+	width:100%
+	color: #000000;
+}
+
+
+location,description,librarian,books,book,part
+{
+display:block;
+	margin:10px;
+}

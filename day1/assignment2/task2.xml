@@ -1,0 +1,35 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<library>
+	<location>Alexandria</location>
+	<description>library for cooking</description>
+	<librarian>Yousef</librarian>
+	<books>
+		<book>
+			<title>SW</title>
+			<ISBN>1654</ISBN>
+			<author>Yousef Adel</author>
+			<preface>fafasfashkjfhaskjfhaskjfhaksjhfkashfkasfh</preface>
+			<parts>
+				<part>
+					<title>software engineer</title>
+					<chapters>
+						<chapter>
+							<title>intro</title>
+							<summary>faksdfgsdkjfgsdkfksdf</summary>
+							<sections>
+								<section>
+									<paragraphs>
+										<paragraph>gsdgsdgdsgsdgweghwegwegweweg</paragraph>
+									</paragraphs>
+								</section>
+							</sections>
+						</chapter>
+					</chapters>
+				</part>
+			</parts>
+		</book>
+	
+	</books>
+</library>
+

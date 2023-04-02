@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<employees>
+<employee>
+	<name>Yousef</name>
+	<phones>
+			<phone type="home">05456046546</phone>
+	</phones>
+	<addresses>
+			<address>
+				<street>khalid abn el walid</street>
+				<building_no>15</building_no>
+				<region>sidi besher</region>
+				<city>Alex</city>
+				<country>Egypt</country>
+			</address>
+	</addresses>
+	<email>Yousef@gmail.com</email>
+</employee>
+
+
+<employee>
+	<name>Ali</name>
+	<phones>
+			<phone type="home">05456046546</phone>
+	</phones>
+	<addresses>
+			<address>
+				<street>khalid abn el walid</street>
+				<building_no>15</building_no>
+				<region>sidi besher</region>
+				<city>Alex</city>
+				<country>Egypt</country>
+			</address>
+	</addresses>
+	<email>Ali@gmail.com</email>
+</employee>
+</employees>
