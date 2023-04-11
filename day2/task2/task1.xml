@@ -1,37 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <employees>
-<employee>
-	<name>Yousef</name>
-	<phones>
-			<phone type="home">05456046546</phone>
-	</phones>
-	<addresses>
-			<address>
-				<street>khalid abn el walid</street>
-				<building_no>15</building_no>
-				<region>sidi besher</region>
-				<city>Alex</city>
-				<country>Egypt</country>
-			</address>
-	</addresses>
-	<email>Yousef@gmail.com</email>
-</employee>
+ 
+    <employee>
+      <id>1</id>
+      <name>Yousef</name>
+      <email>Yousef@gmail.com</email>
+      <phone>05456046546</phone>
+      <address>khalid abn el walid,sidi besher,Alex</address>
+    </employee>
 
-
-<employee>
-	<name>Ali</name>
-	<phones>
-			<phone type="home">05456046546</phone>
-	</phones>
-	<addresses>
-			<address>
-				<street>khalid abn el walid</street>
-				<building_no>15</building_no>
-				<region>sidi besher</region>
-				<city>Alex</city>
-				<country>Egypt</country>
-			</address>
-	</addresses>
-	<email>Ali@gmail.com</email>
-</employee>
+  
+  <employee>
+    <id>6434fde0516a1</id>
+    <name>Mohamed</name>
+    <email>Mohamed@gmail.com</email>
+    <phone>35378378387</phone>
+    <address>khalid abn el walid,sidi besher,Alex</address>
+  </employee>
 </employees>
